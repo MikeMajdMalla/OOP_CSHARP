@@ -1,0 +1,16 @@
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\bin\Debug\net5.0\Mike's.exe
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\bin\Debug\net5.0\Mike's.deps.json
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\bin\Debug\net5.0\Mike's.runtimeconfig.json
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\bin\Debug\net5.0\Mike's.runtimeconfig.dev.json
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\bin\Debug\net5.0\Mike's.dll
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\bin\Debug\net5.0\ref\Mike's.dll
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\bin\Debug\net5.0\Mike's.pdb
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\obj\Debug\net5.0\Mike's.csproj.AssemblyReference.cache
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\obj\Debug\net5.0\Mike's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\obj\Debug\net5.0\Mike's.AssemblyInfoInputs.cache
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\obj\Debug\net5.0\Mike's.AssemblyInfo.cs
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\obj\Debug\net5.0\Mike's.csproj.CoreCompileInputs.cache
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\obj\Debug\net5.0\Mike's.dll
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\obj\Debug\net5.0\ref\Mike's.dll
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\obj\Debug\net5.0\Mike's.pdb
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Mike's\obj\Debug\net5.0\Mike's.genruntimeconfig.cache

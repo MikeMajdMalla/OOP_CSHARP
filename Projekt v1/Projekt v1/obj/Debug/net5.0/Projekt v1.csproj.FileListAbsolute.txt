@@ -1,0 +1,16 @@
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\bin\Debug\net5.0\Projekt v1.exe
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\bin\Debug\net5.0\Projekt v1.deps.json
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\bin\Debug\net5.0\Projekt v1.runtimeconfig.json
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\bin\Debug\net5.0\Projekt v1.runtimeconfig.dev.json
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\bin\Debug\net5.0\Projekt v1.dll
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\bin\Debug\net5.0\ref\Projekt v1.dll
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\bin\Debug\net5.0\Projekt v1.pdb
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\obj\Debug\net5.0\Projekt v1.csproj.AssemblyReference.cache
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\obj\Debug\net5.0\Projekt v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\obj\Debug\net5.0\Projekt v1.AssemblyInfoInputs.cache
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\obj\Debug\net5.0\Projekt v1.AssemblyInfo.cs
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\obj\Debug\net5.0\Projekt v1.csproj.CoreCompileInputs.cache
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\obj\Debug\net5.0\Projekt v1.dll
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\obj\Debug\net5.0\ref\Projekt v1.dll
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\obj\Debug\net5.0\Projekt v1.pdb
+C:\Users\Figge\Desktop\Kodning\Projekt v1\Projekt v1\Projekt v1\obj\Debug\net5.0\Projekt v1.genruntimeconfig.cache
